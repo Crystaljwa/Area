@@ -1,6 +1,5 @@
 #Crystal Waters 10/27/2023
-#This is a program to demonstrate functions by creating two functions to
-#computer the area and perimeter of a rectangle.
+#This is a program to demonstrate functions by creating two functions to compute the area and perimeter of a rectangle.
 #The user will give the dimensions
 
 #this function computes the area of a rectangle given the length and width
